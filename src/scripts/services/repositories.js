@@ -5,4 +5,4 @@ async function getRepositories(userName) {
     return await response.json()
 }
 
-export {getRepositories}
+export { getRepositories }
